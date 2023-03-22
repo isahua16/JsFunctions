@@ -13,4 +13,10 @@ while(i < usernames.length)
     i++;
 }
 
+function generic_function()
+{
+    console.log(`Hello!`);
+}
+generic_function();
+
 
